@@ -14,7 +14,7 @@ Implementation of Data Encryption Standard
 Comments:
 
 
-to build executable use : 'make hw3' or 'make'
+to build executable use : 'make des' or 'make'
 
 to clean use            : 'make clean'
 
